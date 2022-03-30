@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello Cruel World
+=======
+Hello World
+What is your name
+>>>>>>> 264981873302766c5cb507f9b6907d5e4b59be4a
